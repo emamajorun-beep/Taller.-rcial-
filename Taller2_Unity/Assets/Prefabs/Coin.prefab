@@ -91,7 +91,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameItem: Coin
-  itemValue: 1
+  itemValue: 2
   itemSound: {fileID: 8300000, guid: 11795c567df3d094f8ce28506dc33526, type: 3}
 --- !u!50 &2325874803785681913
 Rigidbody2D:
